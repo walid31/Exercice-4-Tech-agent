@@ -1,5 +1,6 @@
 import jade.core.Agent;
-
+import jade.core.AID;
+import jade.lang.acl.ACLMessage;
 public class Vendeur extends Agent {
 	float prix;
 	String nom;
